@@ -1,0 +1,43 @@
+{
+  "name": "be.eloistree.omigitinstaller",
+  "displayName": "Open Macro Input Gits installer",
+  "version": "0.0.1",
+  "unity": "2018.1",
+  "keywords": [
+    "unity",
+    "editor",
+    "tools"
+  ],
+  "description": "Open Macro Input is composed of a good hundred of small gits repository. This tool allows to install per groups, platforms, devices",
+  "dependencies": {
+  },
+  "relatedPackages": {
+  },
+  "documentationUrl": "https://github.com/OpenMacroInput/OmiUnityGitsInstaller",
+  "repository": {
+    "url": "https://github.com/OpenMacroInput/OmiUnityGitsInstaller",
+    "type": "git"
+  },
+  "samples": [
+    {
+      "displayName": "Platform Neutral",
+      "description": "Installer for neutral code of the project for all platform.",
+      "path": "Samples~/PlatformNeutral"
+    },
+    {
+      "displayName": "Android Platform",
+      "description": "Install code that is targeted to Android Platform.",
+      "path": "Samples~/AndroidPlatform"
+    },
+    {
+      "displayName": "Android Oculus Integration",
+      "description": "Install code that is targeted to the Oculus plugin of Meta.",
+      "path": "Samples~/OculusQuest2"
+    },
+    {
+      "displayName": "Open XR",
+      "description": "Install code that is targeted to Open XR in general",
+      "path": "Samples~/OpenXR"
+    }
+  ]
+}

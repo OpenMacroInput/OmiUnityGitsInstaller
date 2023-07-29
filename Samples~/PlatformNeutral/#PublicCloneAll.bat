@@ -1,0 +1,1 @@
+clone git@github.com:OpenMacroInput/LearnAndInvestOnTheProject.git
